@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+E:/IOT/COAP/coap_server/build/CMakeFiles/bootloader
+E:/IOT/COAP/coap_server/build/CMakeFiles/bootloader.rule
+E:/IOT/COAP/coap_server/build/CMakeFiles/bootloader-complete.rule
+E:/IOT/COAP/coap_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+E:/IOT/COAP/coap_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+E:/IOT/COAP/coap_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+E:/IOT/COAP/coap_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+E:/IOT/COAP/coap_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+E:/IOT/COAP/coap_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+E:/IOT/COAP/coap_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

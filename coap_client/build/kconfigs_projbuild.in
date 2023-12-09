@@ -1,0 +1,7 @@
+source "C:/Users/PC/ESP_IDF/esp-idf/components/bootloader/Kconfig.projbuild"
+source "C:/Users/PC/ESP_IDF/esp-idf/components/esp_app_format/Kconfig.projbuild"
+source "C:/Users/PC/ESP_IDF/esp-idf/components/esp_rom/Kconfig.projbuild"
+source "C:/Users/PC/ESP_IDF/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "C:/Users/PC/ESP_IDF/esp-idf/components/partition_table/Kconfig.projbuild"
+source "E:/IOT/COAP/coap_client/main/Kconfig.projbuild"
+source "C:/Users/PC/ESP_IDF/esp-idf/examples/common_components/protocol_examples_common/Kconfig.projbuild"
